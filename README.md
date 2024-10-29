@@ -14,3 +14,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ### 📊 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/krivosheev)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
